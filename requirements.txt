@@ -1,0 +1,5 @@
+youtube-transcript-api
+streamlit
+transformers 
+python-dotenv
+google-generativeai
