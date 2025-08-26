@@ -26,7 +26,7 @@ This app extracts video transcripts (subtitles/captions) and generates a **conci
 ---
 
 
-Future Improvements
+## Future Improvements
 
 Support for multi-language subtitles
 
@@ -34,10 +34,15 @@ Option to download summary as PDF/Text
 
 Summarization with other AI models (e.g., OpenAI, LLaMA)
 
-🤝 Contributing
+---
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a PR.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Developed by Youssef Helmy
+---
+
