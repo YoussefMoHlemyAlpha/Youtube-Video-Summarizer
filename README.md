@@ -1,4 +1,8 @@
 # 🎥 YouTube Video Summarizer  
+<img width="1920" height="1080" alt="Screenshot 2025-08-26 145759" src="https://github.com/user-attachments/assets/254133e8-b796-4c19-a6d3-3c64eeae2e00" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-26 145854" src="https://github.com/user-attachments/assets/558ca190-79b2-474f-a34e-e77dd21662ef" />
+
+
 
 An **AI-powered YouTube Video Summarizer** built with **Streamlit**, **yt-dlp**, and **Google Gemini AI**.  
 This app extracts video transcripts (subtitles/captions) and generates a **concise summary** in bullet points within **300 words**.  
